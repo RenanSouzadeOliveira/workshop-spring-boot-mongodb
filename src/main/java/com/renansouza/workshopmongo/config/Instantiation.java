@@ -12,7 +12,6 @@ import com.renansouza.workshopmongo.domain.Post;
 import com.renansouza.workshopmongo.domain.User;
 import com.renansouza.workshopmongo.dto.AuthorDTO;
 import com.renansouza.workshopmongo.dto.CommentDTO;
-import com.renansouza.workshopmongo.dto.UserDTO;
 import com.renansouza.workshopmongo.repository.PostRepository;
 import com.renansouza.workshopmongo.repository.UserRepository;
 
